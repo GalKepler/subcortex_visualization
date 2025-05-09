@@ -17,3 +17,6 @@ readme_images.svg
 
 # Testing files
 testing*
+
+# Virtual environment directories
+venv/
