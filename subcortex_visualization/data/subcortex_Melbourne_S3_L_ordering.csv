@@ -1,109 +1,109 @@
-Unnamed: 0,region,name,base_name,Label Name,network,component,Hemisphere,face,value
-400,1,HIP-head-m1-rh,HIP-head-m1,"Hippocampus head, medial division",subcortex,Hippocampus head,R,lateral,22
-401,2,HIP-head-m2-rh,HIP-head-m2,"Hippocampus head, medial division",subcortex,Hippocampus head,R,lateral,99
-402,3,THA-VAip-rh,THA-VAip,"Thalamus, inferior ventro-anterior part, posterior division",subcortex,Thalamus,R,lateral,28
-403,4,THA-VAia-rh,THA-VAia,"Thalamus, inferior ventro-anterior part, anterior division",subcortex,Thalamus,R,lateral,28
-404,5,HIP-head-l-rh,HIP-head-l,"Hippocampus head, lateral division",subcortex,Hippocampus head,R,lateral,3
-405,6,HIP-body-rh,HIP-body,Hippocampus body,subcortex,Hippocampus body,R,lateral,54
-406,7,HIP-tail-rh,HIP-tail,Hippocampus tail,subcortex,Hippocampus tail,R,lateral,58
-407,8,THA-VPm-rh,THA-VPm,"Thalamus, medial ventro-posterior part",subcortex,Thalamus,R,lateral,48
-408,9,THA-VPl-rh,THA-VPl,"Thalamus, lateral ventro-posterior part",subcortex,Thalamus,R,lateral,73
-409,10,THA-VAs-rh,THA-VAs,"Thalamus, superior ventro-anterior part",subcortex,Thalamus,R,lateral,90
-410,11,THA-DAm-rh,THA-DAm,"Thalamus, medial dorso-anterior part",subcortex,Thalamus,R,lateral,22
-411,12,THA-DAl-rh,THA-DAl,"Thalamus, lateral dorso-anterior part",subcortex,Thalamus,R,lateral,42
-412,13,PUT-VA-rh,PUT-VA,"Putamen, ventro-anterior part",subcortex,Putamen,R,lateral,63
-413,14,PUT-DA-rh,PUT-DA,"Putamen, dorso-anterior part",subcortex,Putamen,R,lateral,42
-414,15,PUT-VP-rh,PUT-VP,"Putamen, ventro-posterior part",subcortex,Putamen,R,lateral,96
-415,16,PUT-DP-rh,PUT-DP,"Putamen, dorso-posterior part",subcortex,Putamen,R,lateral,68
-416,17,CAU-VA-rh,CAU-VA,"Caudate, ventro-anterior part",subcortex,Caudate,R,lateral,31
-417,18,CAU-DA-rh,CAU-DA,"Caudate, dorso-anterior part",subcortex,Caudate,R,lateral,0
-418,19,CAU-body-rh,CAU-body,Caudate body,subcortex,Caudate body,R,lateral,33
-419,20,CAU-tail-rh,CAU-tail,Caudate tail,subcortex,Caudate tail,R,lateral,80
-420,21,lAMY-rh,lAMY,"Amygdala, lateral nucleus",subcortex,Amygdala,R,lateral,34
-421,22,mAMY-rh,mAMY,"Amygdala, medial nucleus",subcortex,Amygdala,R,lateral,25
-422,23,THA-DP-rh,THA-DP,"Thalamus, dorso-posterior part",subcortex,Thalamus,R,lateral,37
-423,24,NAc-shell-rh,NAc-shell,"Nucleus Accumbens, shell",subcortex,Nucleus Accumbens,R,lateral,49
-424,25,NAc-core-rh,NAc-core,"Nucleus Accumbens, core",subcortex,Nucleus Accumbens,R,lateral,33
-425,26,pGP-rh,pGP,"Pallidum, posterior part",subcortex,Pallidum,R,lateral,22
-426,27,aGP-rh,aGP,"Pallidum, anterior part",subcortex,Pallidum,R,lateral,24
-427,28,HIP-head-m1-lh,HIP-head-m1,"Hippocampus head, medial division",subcortex,Hippocampus head,L,lateral,46
-428,29,HIP-head-m2-lh,HIP-head-m2,"Hippocampus head, medial division",subcortex,Hippocampus head,L,lateral,11
-429,30,THA-VAip-lh,THA-VAip,"Thalamus, inferior ventro-anterior part, posterior division",subcortex,Thalamus,L,lateral,8
-430,31,THA-VAia-lh,THA-VAia,"Thalamus, inferior ventro-anterior part, anterior division",subcortex,Thalamus,L,lateral,24
-431,32,HIP-head-l-lh,HIP-head-l,"Hippocampus head, lateral division",subcortex,Hippocampus head,L,lateral,11
-432,33,HIP-body-lh,HIP-body,Hippocampus body,subcortex,Hippocampus body,L,lateral,51
-433,34,HIP-tail-lh,HIP-tail,Hippocampus tail,subcortex,Hippocampus tail,L,lateral,87
-434,35,THA-VPm-lh,THA-VPm,"Thalamus, medial ventro-posterior part",subcortex,Thalamus,L,lateral,45
-435,36,THA-VPl-lh,THA-VPl,"Thalamus, lateral ventro-posterior part",subcortex,Thalamus,L,lateral,50
-436,37,THA-VAs-lh,THA-VAs,"Thalamus, superior ventro-anterior part",subcortex,Thalamus,L,lateral,67
-437,38,THA-DAm-lh,THA-DAm,"Thalamus, medial dorso-anterior part",subcortex,Thalamus,L,lateral,54
-438,39,THA-DAl-lh,THA-DAl,"Thalamus, lateral dorso-anterior part",subcortex,Thalamus,L,lateral,83
-439,40,PUT-VA-lh,PUT-VA,"Putamen, ventro-anterior part",subcortex,Putamen,L,lateral,17
-440,41,PUT-DA-lh,PUT-DA,"Putamen, dorso-anterior part",subcortex,Putamen,L,lateral,70
-441,42,PUT-VP-lh,PUT-VP,"Putamen, ventro-posterior part",subcortex,Putamen,L,lateral,66
-442,43,PUT-DP-lh,PUT-DP,"Putamen, dorso-posterior part",subcortex,Putamen,L,lateral,41
-443,44,CAU-VA-lh,CAU-VA,"Caudate, ventro-anterior part",subcortex,Caudate,L,lateral,64
-444,45,CAU-DA-lh,CAU-DA,"Caudate, dorso-anterior part",subcortex,Caudate,L,lateral,95
-445,46,CAU-body-lh,CAU-body,Caudate body,subcortex,Caudate body,L,lateral,26
-446,47,CAU-tail-lh,CAU-tail,Caudate tail,subcortex,Caudate tail,L,lateral,47
-447,48,lAMY-lh,lAMY,"Amygdala, lateral nucleus",subcortex,Amygdala,L,lateral,34
-448,49,mAMY-lh,mAMY,"Amygdala, medial nucleus",subcortex,Amygdala,L,lateral,18
-449,50,THA-DP-lh,THA-DP,"Thalamus, dorso-posterior part",subcortex,Thalamus,L,lateral,96
-450,51,NAc-shell-lh,NAc-shell,"Nucleus Accumbens, shell",subcortex,Nucleus Accumbens,L,lateral,57
-451,52,NAc-core-lh,NAc-core,"Nucleus Accumbens, core",subcortex,Nucleus Accumbens,L,lateral,0
-452,53,pGP-lh,pGP,"Pallidum, posterior part",subcortex,Pallidum,L,lateral,87
-453,54,aGP-lh,aGP,"Pallidum, anterior part",subcortex,Pallidum,L,lateral,29
-400,1,HIP-head-m1-rh,HIP-head-m1,"Hippocampus head, medial division",subcortex,Hippocampus head,R,medial,22
-401,2,HIP-head-m2-rh,HIP-head-m2,"Hippocampus head, medial division",subcortex,Hippocampus head,R,medial,99
-402,3,THA-VAip-rh,THA-VAip,"Thalamus, inferior ventro-anterior part, posterior division",subcortex,Thalamus,R,medial,28
-403,4,THA-VAia-rh,THA-VAia,"Thalamus, inferior ventro-anterior part, anterior division",subcortex,Thalamus,R,medial,28
-404,5,HIP-head-l-rh,HIP-head-l,"Hippocampus head, lateral division",subcortex,Hippocampus head,R,medial,3
-405,6,HIP-body-rh,HIP-body,Hippocampus body,subcortex,Hippocampus body,R,medial,54
-406,7,HIP-tail-rh,HIP-tail,Hippocampus tail,subcortex,Hippocampus tail,R,medial,58
-407,8,THA-VPm-rh,THA-VPm,"Thalamus, medial ventro-posterior part",subcortex,Thalamus,R,medial,48
-408,9,THA-VPl-rh,THA-VPl,"Thalamus, lateral ventro-posterior part",subcortex,Thalamus,R,medial,73
-409,10,THA-VAs-rh,THA-VAs,"Thalamus, superior ventro-anterior part",subcortex,Thalamus,R,medial,90
-410,11,THA-DAm-rh,THA-DAm,"Thalamus, medial dorso-anterior part",subcortex,Thalamus,R,medial,22
-411,12,THA-DAl-rh,THA-DAl,"Thalamus, lateral dorso-anterior part",subcortex,Thalamus,R,medial,42
-412,13,PUT-VA-rh,PUT-VA,"Putamen, ventro-anterior part",subcortex,Putamen,R,medial,63
-413,14,PUT-DA-rh,PUT-DA,"Putamen, dorso-anterior part",subcortex,Putamen,R,medial,42
-414,15,PUT-VP-rh,PUT-VP,"Putamen, ventro-posterior part",subcortex,Putamen,R,medial,96
-415,16,PUT-DP-rh,PUT-DP,"Putamen, dorso-posterior part",subcortex,Putamen,R,medial,68
-416,17,CAU-VA-rh,CAU-VA,"Caudate, ventro-anterior part",subcortex,Caudate,R,medial,31
-417,18,CAU-DA-rh,CAU-DA,"Caudate, dorso-anterior part",subcortex,Caudate,R,medial,0
-418,19,CAU-body-rh,CAU-body,Caudate body,subcortex,Caudate body,R,medial,33
-419,20,CAU-tail-rh,CAU-tail,Caudate tail,subcortex,Caudate tail,R,medial,80
-420,21,lAMY-rh,lAMY,"Amygdala, lateral nucleus",subcortex,Amygdala,R,medial,34
-421,22,mAMY-rh,mAMY,"Amygdala, medial nucleus",subcortex,Amygdala,R,medial,25
-422,23,THA-DP-rh,THA-DP,"Thalamus, dorso-posterior part",subcortex,Thalamus,R,medial,37
-423,24,NAc-shell-rh,NAc-shell,"Nucleus Accumbens, shell",subcortex,Nucleus Accumbens,R,medial,49
-424,25,NAc-core-rh,NAc-core,"Nucleus Accumbens, core",subcortex,Nucleus Accumbens,R,medial,33
-425,26,pGP-rh,pGP,"Pallidum, posterior part",subcortex,Pallidum,R,medial,22
-426,27,aGP-rh,aGP,"Pallidum, anterior part",subcortex,Pallidum,R,medial,24
-427,28,HIP-head-m1-lh,HIP-head-m1,"Hippocampus head, medial division",subcortex,Hippocampus head,L,medial,46
-428,29,HIP-head-m2-lh,HIP-head-m2,"Hippocampus head, medial division",subcortex,Hippocampus head,L,medial,11
-429,30,THA-VAip-lh,THA-VAip,"Thalamus, inferior ventro-anterior part, posterior division",subcortex,Thalamus,L,medial,8
-430,31,THA-VAia-lh,THA-VAia,"Thalamus, inferior ventro-anterior part, anterior division",subcortex,Thalamus,L,medial,24
-431,32,HIP-head-l-lh,HIP-head-l,"Hippocampus head, lateral division",subcortex,Hippocampus head,L,medial,11
-432,33,HIP-body-lh,HIP-body,Hippocampus body,subcortex,Hippocampus body,L,medial,51
-433,34,HIP-tail-lh,HIP-tail,Hippocampus tail,subcortex,Hippocampus tail,L,medial,87
-434,35,THA-VPm-lh,THA-VPm,"Thalamus, medial ventro-posterior part",subcortex,Thalamus,L,medial,45
-435,36,THA-VPl-lh,THA-VPl,"Thalamus, lateral ventro-posterior part",subcortex,Thalamus,L,medial,50
-436,37,THA-VAs-lh,THA-VAs,"Thalamus, superior ventro-anterior part",subcortex,Thalamus,L,medial,67
-437,38,THA-DAm-lh,THA-DAm,"Thalamus, medial dorso-anterior part",subcortex,Thalamus,L,medial,54
-438,39,THA-DAl-lh,THA-DAl,"Thalamus, lateral dorso-anterior part",subcortex,Thalamus,L,medial,83
-439,40,PUT-VA-lh,PUT-VA,"Putamen, ventro-anterior part",subcortex,Putamen,L,medial,17
-440,41,PUT-DA-lh,PUT-DA,"Putamen, dorso-anterior part",subcortex,Putamen,L,medial,70
-441,42,PUT-VP-lh,PUT-VP,"Putamen, ventro-posterior part",subcortex,Putamen,L,medial,66
-442,43,PUT-DP-lh,PUT-DP,"Putamen, dorso-posterior part",subcortex,Putamen,L,medial,41
-443,44,CAU-VA-lh,CAU-VA,"Caudate, ventro-anterior part",subcortex,Caudate,L,medial,64
-444,45,CAU-DA-lh,CAU-DA,"Caudate, dorso-anterior part",subcortex,Caudate,L,medial,95
-445,46,CAU-body-lh,CAU-body,Caudate body,subcortex,Caudate body,L,medial,26
-446,47,CAU-tail-lh,CAU-tail,Caudate tail,subcortex,Caudate tail,L,medial,47
-447,48,lAMY-lh,lAMY,"Amygdala, lateral nucleus",subcortex,Amygdala,L,medial,34
-448,49,mAMY-lh,mAMY,"Amygdala, medial nucleus",subcortex,Amygdala,L,medial,18
-449,50,THA-DP-lh,THA-DP,"Thalamus, dorso-posterior part",subcortex,Thalamus,L,medial,96
-450,51,NAc-shell-lh,NAc-shell,"Nucleus Accumbens, shell",subcortex,Nucleus Accumbens,L,medial,57
-451,52,NAc-core-lh,NAc-core,"Nucleus Accumbens, core",subcortex,Nucleus Accumbens,L,medial,0
-452,53,pGP-lh,pGP,"Pallidum, posterior part",subcortex,Pallidum,L,medial,87
-453,54,aGP-lh,aGP,"Pallidum, anterior part",subcortex,Pallidum,L,medial,29
+region,name,base_name,Label Name,network,component,Hemisphere,face
+1,HIP-head-m1-rh,HIP-head-m1,"Hippocampus head, medial division",subcortex,Hippocampus head,R,lateral
+2,HIP-head-m2-rh,HIP-head-m2,"Hippocampus head, medial division",subcortex,Hippocampus head,R,lateral
+3,THA-VAip-rh,THA-VAip,"Thalamus, inferior ventro-anterior part, posterior division",subcortex,Thalamus,R,lateral
+4,THA-VAia-rh,THA-VAia,"Thalamus, inferior ventro-anterior part, anterior division",subcortex,Thalamus,R,lateral
+5,HIP-head-l-rh,HIP-head-l,"Hippocampus head, lateral division",subcortex,Hippocampus head,R,lateral
+6,HIP-body-rh,HIP-body,Hippocampus body,subcortex,Hippocampus body,R,lateral
+7,HIP-tail-rh,HIP-tail,Hippocampus tail,subcortex,Hippocampus tail,R,lateral
+8,THA-VPm-rh,THA-VPm,"Thalamus, medial ventro-posterior part",subcortex,Thalamus,R,lateral
+9,THA-VPl-rh,THA-VPl,"Thalamus, lateral ventro-posterior part",subcortex,Thalamus,R,lateral
+10,THA-VAs-rh,THA-VAs,"Thalamus, superior ventro-anterior part",subcortex,Thalamus,R,lateral
+11,THA-DAm-rh,THA-DAm,"Thalamus, medial dorso-anterior part",subcortex,Thalamus,R,lateral
+12,THA-DAl-rh,THA-DAl,"Thalamus, lateral dorso-anterior part",subcortex,Thalamus,R,lateral
+13,PUT-VA-rh,PUT-VA,"Putamen, ventro-anterior part",subcortex,Putamen,R,lateral
+14,PUT-DA-rh,PUT-DA,"Putamen, dorso-anterior part",subcortex,Putamen,R,lateral
+15,PUT-VP-rh,PUT-VP,"Putamen, ventro-posterior part",subcortex,Putamen,R,lateral
+16,PUT-DP-rh,PUT-DP,"Putamen, dorso-posterior part",subcortex,Putamen,R,lateral
+17,CAU-VA-rh,CAU-VA,"Caudate, ventro-anterior part",subcortex,Caudate,R,lateral
+18,CAU-DA-rh,CAU-DA,"Caudate, dorso-anterior part",subcortex,Caudate,R,lateral
+19,CAU-body-rh,CAU-body,Caudate body,subcortex,Caudate body,R,lateral
+20,CAU-tail-rh,CAU-tail,Caudate tail,subcortex,Caudate tail,R,lateral
+21,lAMY-rh,lAMY,"Amygdala, lateral nucleus",subcortex,Amygdala,R,lateral
+22,mAMY-rh,mAMY,"Amygdala, medial nucleus",subcortex,Amygdala,R,lateral
+23,THA-DP-rh,THA-DP,"Thalamus, dorso-posterior part",subcortex,Thalamus,R,lateral
+24,NAc-shell-rh,NAc-shell,"Nucleus Accumbens, shell",subcortex,Nucleus Accumbens,R,lateral
+25,NAc-core-rh,NAc-core,"Nucleus Accumbens, core",subcortex,Nucleus Accumbens,R,lateral
+26,pGP-rh,pGP,"Pallidum, posterior part",subcortex,Pallidum,R,lateral
+27,aGP-rh,aGP,"Pallidum, anterior part",subcortex,Pallidum,R,lateral
+28,HIP-head-m1-lh,HIP-head-m1,"Hippocampus head, medial division",subcortex,Hippocampus head,L,lateral
+29,HIP-head-m2-lh,HIP-head-m2,"Hippocampus head, medial division",subcortex,Hippocampus head,L,lateral
+30,THA-VAip-lh,THA-VAip,"Thalamus, inferior ventro-anterior part, posterior division",subcortex,Thalamus,L,lateral
+31,THA-VAia-lh,THA-VAia,"Thalamus, inferior ventro-anterior part, anterior division",subcortex,Thalamus,L,lateral
+32,HIP-head-l-lh,HIP-head-l,"Hippocampus head, lateral division",subcortex,Hippocampus head,L,lateral
+33,HIP-body-lh,HIP-body,Hippocampus body,subcortex,Hippocampus body,L,lateral
+34,HIP-tail-lh,HIP-tail,Hippocampus tail,subcortex,Hippocampus tail,L,lateral
+35,THA-VPm-lh,THA-VPm,"Thalamus, medial ventro-posterior part",subcortex,Thalamus,L,lateral
+36,THA-VPl-lh,THA-VPl,"Thalamus, lateral ventro-posterior part",subcortex,Thalamus,L,lateral
+37,THA-VAs-lh,THA-VAs,"Thalamus, superior ventro-anterior part",subcortex,Thalamus,L,lateral
+38,THA-DAm-lh,THA-DAm,"Thalamus, medial dorso-anterior part",subcortex,Thalamus,L,lateral
+39,THA-DAl-lh,THA-DAl,"Thalamus, lateral dorso-anterior part",subcortex,Thalamus,L,lateral
+40,PUT-VA-lh,PUT-VA,"Putamen, ventro-anterior part",subcortex,Putamen,L,lateral
+41,PUT-DA-lh,PUT-DA,"Putamen, dorso-anterior part",subcortex,Putamen,L,lateral
+42,PUT-VP-lh,PUT-VP,"Putamen, ventro-posterior part",subcortex,Putamen,L,lateral
+43,PUT-DP-lh,PUT-DP,"Putamen, dorso-posterior part",subcortex,Putamen,L,lateral
+44,CAU-VA-lh,CAU-VA,"Caudate, ventro-anterior part",subcortex,Caudate,L,lateral
+45,CAU-DA-lh,CAU-DA,"Caudate, dorso-anterior part",subcortex,Caudate,L,lateral
+46,CAU-body-lh,CAU-body,Caudate body,subcortex,Caudate body,L,lateral
+47,CAU-tail-lh,CAU-tail,Caudate tail,subcortex,Caudate tail,L,lateral
+48,lAMY-lh,lAMY,"Amygdala, lateral nucleus",subcortex,Amygdala,L,lateral
+49,mAMY-lh,mAMY,"Amygdala, medial nucleus",subcortex,Amygdala,L,lateral
+50,THA-DP-lh,THA-DP,"Thalamus, dorso-posterior part",subcortex,Thalamus,L,lateral
+51,NAc-shell-lh,NAc-shell,"Nucleus Accumbens, shell",subcortex,Nucleus Accumbens,L,lateral
+52,NAc-core-lh,NAc-core,"Nucleus Accumbens, core",subcortex,Nucleus Accumbens,L,lateral
+53,pGP-lh,pGP,"Pallidum, posterior part",subcortex,Pallidum,L,lateral
+54,aGP-lh,aGP,"Pallidum, anterior part",subcortex,Pallidum,L,lateral
+1,HIP-head-m1-rh,HIP-head-m1,"Hippocampus head, medial division",subcortex,Hippocampus head,R,medial
+2,HIP-head-m2-rh,HIP-head-m2,"Hippocampus head, medial division",subcortex,Hippocampus head,R,medial
+3,THA-VAip-rh,THA-VAip,"Thalamus, inferior ventro-anterior part, posterior division",subcortex,Thalamus,R,medial
+4,THA-VAia-rh,THA-VAia,"Thalamus, inferior ventro-anterior part, anterior division",subcortex,Thalamus,R,medial
+5,HIP-head-l-rh,HIP-head-l,"Hippocampus head, lateral division",subcortex,Hippocampus head,R,medial
+6,HIP-body-rh,HIP-body,Hippocampus body,subcortex,Hippocampus body,R,medial
+7,HIP-tail-rh,HIP-tail,Hippocampus tail,subcortex,Hippocampus tail,R,medial
+8,THA-VPm-rh,THA-VPm,"Thalamus, medial ventro-posterior part",subcortex,Thalamus,R,medial
+9,THA-VPl-rh,THA-VPl,"Thalamus, lateral ventro-posterior part",subcortex,Thalamus,R,medial
+10,THA-VAs-rh,THA-VAs,"Thalamus, superior ventro-anterior part",subcortex,Thalamus,R,medial
+11,THA-DAm-rh,THA-DAm,"Thalamus, medial dorso-anterior part",subcortex,Thalamus,R,medial
+12,THA-DAl-rh,THA-DAl,"Thalamus, lateral dorso-anterior part",subcortex,Thalamus,R,medial
+13,PUT-VA-rh,PUT-VA,"Putamen, ventro-anterior part",subcortex,Putamen,R,medial
+14,PUT-DA-rh,PUT-DA,"Putamen, dorso-anterior part",subcortex,Putamen,R,medial
+15,PUT-VP-rh,PUT-VP,"Putamen, ventro-posterior part",subcortex,Putamen,R,medial
+16,PUT-DP-rh,PUT-DP,"Putamen, dorso-posterior part",subcortex,Putamen,R,medial
+17,CAU-VA-rh,CAU-VA,"Caudate, ventro-anterior part",subcortex,Caudate,R,medial
+18,CAU-DA-rh,CAU-DA,"Caudate, dorso-anterior part",subcortex,Caudate,R,medial
+19,CAU-body-rh,CAU-body,Caudate body,subcortex,Caudate body,R,medial
+20,CAU-tail-rh,CAU-tail,Caudate tail,subcortex,Caudate tail,R,medial
+21,lAMY-rh,lAMY,"Amygdala, lateral nucleus",subcortex,Amygdala,R,medial
+22,mAMY-rh,mAMY,"Amygdala, medial nucleus",subcortex,Amygdala,R,medial
+23,THA-DP-rh,THA-DP,"Thalamus, dorso-posterior part",subcortex,Thalamus,R,medial
+24,NAc-shell-rh,NAc-shell,"Nucleus Accumbens, shell",subcortex,Nucleus Accumbens,R,medial
+25,NAc-core-rh,NAc-core,"Nucleus Accumbens, core",subcortex,Nucleus Accumbens,R,medial
+26,pGP-rh,pGP,"Pallidum, posterior part",subcortex,Pallidum,R,medial
+27,aGP-rh,aGP,"Pallidum, anterior part",subcortex,Pallidum,R,medial
+28,HIP-head-m1-lh,HIP-head-m1,"Hippocampus head, medial division",subcortex,Hippocampus head,L,medial
+29,HIP-head-m2-lh,HIP-head-m2,"Hippocampus head, medial division",subcortex,Hippocampus head,L,medial
+30,THA-VAip-lh,THA-VAip,"Thalamus, inferior ventro-anterior part, posterior division",subcortex,Thalamus,L,medial
+31,THA-VAia-lh,THA-VAia,"Thalamus, inferior ventro-anterior part, anterior division",subcortex,Thalamus,L,medial
+32,HIP-head-l-lh,HIP-head-l,"Hippocampus head, lateral division",subcortex,Hippocampus head,L,medial
+33,HIP-body-lh,HIP-body,Hippocampus body,subcortex,Hippocampus body,L,medial
+34,HIP-tail-lh,HIP-tail,Hippocampus tail,subcortex,Hippocampus tail,L,medial
+35,THA-VPm-lh,THA-VPm,"Thalamus, medial ventro-posterior part",subcortex,Thalamus,L,medial
+36,THA-VPl-lh,THA-VPl,"Thalamus, lateral ventro-posterior part",subcortex,Thalamus,L,medial
+37,THA-VAs-lh,THA-VAs,"Thalamus, superior ventro-anterior part",subcortex,Thalamus,L,medial
+38,THA-DAm-lh,THA-DAm,"Thalamus, medial dorso-anterior part",subcortex,Thalamus,L,medial
+39,THA-DAl-lh,THA-DAl,"Thalamus, lateral dorso-anterior part",subcortex,Thalamus,L,medial
+40,PUT-VA-lh,PUT-VA,"Putamen, ventro-anterior part",subcortex,Putamen,L,medial
+41,PUT-DA-lh,PUT-DA,"Putamen, dorso-anterior part",subcortex,Putamen,L,medial
+42,PUT-VP-lh,PUT-VP,"Putamen, ventro-posterior part",subcortex,Putamen,L,medial
+43,PUT-DP-lh,PUT-DP,"Putamen, dorso-posterior part",subcortex,Putamen,L,medial
+44,CAU-VA-lh,CAU-VA,"Caudate, ventro-anterior part",subcortex,Caudate,L,medial
+45,CAU-DA-lh,CAU-DA,"Caudate, dorso-anterior part",subcortex,Caudate,L,medial
+46,CAU-body-lh,CAU-body,Caudate body,subcortex,Caudate body,L,medial
+47,CAU-tail-lh,CAU-tail,Caudate tail,subcortex,Caudate tail,L,medial
+48,lAMY-lh,lAMY,"Amygdala, lateral nucleus",subcortex,Amygdala,L,medial
+49,mAMY-lh,mAMY,"Amygdala, medial nucleus",subcortex,Amygdala,L,medial
+50,THA-DP-lh,THA-DP,"Thalamus, dorso-posterior part",subcortex,Thalamus,L,medial
+51,NAc-shell-lh,NAc-shell,"Nucleus Accumbens, shell",subcortex,Nucleus Accumbens,L,medial
+52,NAc-core-lh,NAc-core,"Nucleus Accumbens, core",subcortex,Nucleus Accumbens,L,medial
+53,pGP-lh,pGP,"Pallidum, posterior part",subcortex,Pallidum,L,medial
+54,aGP-lh,aGP,"Pallidum, anterior part",subcortex,Pallidum,L,medial
